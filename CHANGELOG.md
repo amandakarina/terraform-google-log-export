@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [5.0.0](https://www.github.com/terraform-google-modules/terraform-google-log-export/compare/v4.1.0...v5.0.0) (2020-10-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* add support for expiration days in storage module (#63)
+
+### Features
+
+* add support for expiration days in storage module ([#63](https://www.github.com/terraform-google-modules/terraform-google-log-export/issues/63)) ([add774a](https://www.github.com/terraform-google-modules/terraform-google-log-export/commit/add774ac1b7274a42a8c9bab8e466e53a64169aa))
+
+
+### Bug Fixes
+
+* Bump provider version ([#61](https://www.github.com/terraform-google-modules/terraform-google-log-export/issues/61)) ([50c2f8f](https://www.github.com/terraform-google-modules/terraform-google-log-export/commit/50c2f8f11fbf76c5e38b4ce55003a3c26590f48f)), closes [#60](https://www.github.com/terraform-google-modules/terraform-google-log-export/issues/60)
+
 ## [4.1.0](https://www.github.com/terraform-google-modules/terraform-google-log-export/compare/v4.0.1...v4.1.0) (2020-08-28)
 
 
